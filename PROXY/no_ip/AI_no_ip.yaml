@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,perplexity.ai
